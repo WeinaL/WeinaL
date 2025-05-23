@@ -5,9 +5,5 @@
 - Skilled in website security, responsive UI design, and SEO.
 - Strong team player with excellent communication, problem-solving, and analytical skills.
 - Strong background in automation testing experience, including building automated tests using Selenium, Puppeteer, Playwright.
-  
-# Tech Stack
-
-
 # Personal Projects
 #### [World Capital Quiz](https://github.com/WeinaL/capital-quiz-app)
