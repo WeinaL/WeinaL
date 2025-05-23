@@ -7,4 +7,4 @@
 - Strong background in automation testing experience, including building automated tests using Selenium, Puppeteer, Playwright.
 # Personal Projects
 #### [World Capital Quiz](https://github.com/WeinaL/capital-quiz-app)
-- React -Typescript
+**Tech Stack**: React, TypeScript, Node.js, Express, Tailwind CSS, Jest, React Testing Library, Supertest, Vercel, Render, Github Actions
