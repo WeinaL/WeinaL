@@ -1,8 +1,11 @@
 # About me
-- 5+ years working experience of software development.
-- Proficient in web development using JavaScript frameworks such as React, Next.js, etc.
-- Worked for hospitality industry to build user-friendly websites with booking.com api.
-- Expert in website security, responsive design, SEO, and image display/download/upload.
-- Hands-on experience in back-end development, including Node.js, Express.js, RESTful APIs, GraphQL, SQL, Kubernetes, etc.
-- Strong team player with excellent problem-solving and issue analysis skills.
-- Over 10 years of QA automation experience, including building automated tests using Puppeteer for headless browser testing on Google Chromium as part of a CI/CD pipeline.
+- Over 6 years of experience in software development.
+- Proficient in web development using JavaScript frameworks such as React and Next.js.
+- Hands-on experience in back-end development, including Node.js, Express.js, RESTful APIs, GraphQL, SQL, and Kubernetes.
+- Skilled in website security, responsive UI design, and SEO.
+- Strong team player with excellent communication, problem-solving, and analytical skills.
+- Strong background in automation testing experience, including building automated tests using Selenium, Puppeteer, Playwright.
+
+# Personal Projects on Github
+## Project Name:
+[World Capital Quiz](https://github.com/WeinaL/capital-quiz-app)
