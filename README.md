@@ -1,4 +1,5 @@
 # About me
+- I'm currently learning **CI/CD** skills and improving my DevOps knowledge
 - Over 6 years of experience in software development.
 - Proficient in web development using JavaScript frameworks such as React and Next.js.
 - Hands-on experience in back-end development, including Node.js, Express.js, RESTful APIs, GraphQL, SQL, and Kubernetes.
