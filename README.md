@@ -1,6 +1,6 @@
 # About me
 - Hands-on experience of **CI/CD** and DevOps skills
-- Hands-on experience of Github Actions, Jenkins, Docker, Kubernetes, Linux basic skills
+- Hands-on experience of Github Actions, Jenkins, Docker, Kubernetes, Helm, Linux basic skills
 - Over 6 years of experience in software development.
 - Proficient in web development using JavaScript frameworks such as React and Next.js.
 - Hands-on experience in back-end development, including Node.js, Express.js, RESTful APIs, GraphQL, SQL, and Kubernetes.
