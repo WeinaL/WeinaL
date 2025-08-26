@@ -1,5 +1,5 @@
 # About me
-- I'm currently learning **CI/CD** skills and improving my DevOps knowledge
+- Hands-on experience of **CI/CD** abd DevOps skills
 - Hands-on experience of Github Actions, Jenkins, Docker, Kubernetes, Linux basic skills
 - Over 6 years of experience in software development.
 - Proficient in web development using JavaScript frameworks such as React and Next.js.
