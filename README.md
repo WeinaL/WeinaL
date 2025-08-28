@@ -1,5 +1,5 @@
 # About me
-- Deep understanding of **CI/CD** and DevOps culture and tools
+- Deep understanding of CI/CD and DevOps culture and tools
 - Hands-on experience of Github Actions, Jenkins, Docker, Kubernetes, Helm, Linux basic skills
 - Proficient in software development using Java(Spring), JavaScript(React,Node.JS), .NET, RESTful APIs, GraphQL, SQL
 - Strong team player with excellent communication, problem-solving, and analytical skills.
