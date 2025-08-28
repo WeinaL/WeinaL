@@ -5,9 +5,9 @@
 - Strong team player with excellent communication, problem-solving, and analytical skills.
 - Strong background in automation testing experience, including building automated tests using Selenium, Puppeteer, Playwright.
 # Personal Projects
-### DevOps
-#### [ReactUI+Java(Gradle)]([https://github.com/WeinaL/Applied-Devops](https://github.com/WeinaL/Applied-Devops/tree/main/DevOps))
+## DevOps
+#### [ReactUI+Java(Gradle)](https://github.com/WeinaL/Applied-Devops/tree/main/DevOps)
 
-### Full-Stack Development
+## Full-Stack Development
 #### [React&Node.JS](https://github.com/WeinaL/capital-quiz-app)
 **Tech Stack**: React, TypeScript, Node.js, Express, Tailwind CSS, Jest, React Testing Library, Supertest, Vercel, Render, Github Actions
